@@ -32,5 +32,5 @@ catch UserNumber.noMatch {
     print("No result")
 }
 catch {
-    print("Help me Caine")
+    print("This is so heavy. Help me Caine.")
 }
